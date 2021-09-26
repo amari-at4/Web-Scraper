@@ -1,4 +1,5 @@
 type: code
+custom_name: Success or fail?
 files:
 - name: main.py
   visible: true
@@ -6,12 +7,12 @@ files:
     import requests
 
 
-    def get_content_type(url):
+    def check_success(url):
         pass
   learner_created: false
-feedback_link: https://hyperskill.org/learn/step/8609#comment
+feedback_link: https://hyperskill.org/learn/step/8608#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: Sun, 26 Sep 2021 18:26:20 UTC
+  time: Sun, 26 Sep 2021 18:30:58 UTC
 record: -1
